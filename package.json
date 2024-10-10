@@ -16,8 +16,8 @@
     "format:write": "prettier --write .",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "docker:build": "docker build -t turbo/minimal-express-boilerplate ./",
-    "docker:run": "docker run --name=turbo-minimal-express-boilerplate -p 3000:3000 turbo/minimal-express-boilerplate"
+    "docker:build": "docker build -t minimal-express-boilerplate ./",
+    "docker:run": "docker run --name=minimal-express-boilerplate -p 3000:3000 minimal-express-boilerplate"
   },
   "nodemonConfig": {
     "watch": [

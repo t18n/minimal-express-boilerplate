@@ -1,0 +1,10 @@
+{
+  "entryFile": "src/app.ts",
+  "controllerPathGlobs": ["src/**/*.controller.ts"],
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "spec": {
+    "host": "localhost:3000",
+    "outputDirectory": "public",
+    "specVersion": 3
+  }
+}

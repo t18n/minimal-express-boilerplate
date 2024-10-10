@@ -5,3 +5,5 @@
 - TSOA to build Swagger
 - Swagger UI
 - ESlint
+- Docker container
+

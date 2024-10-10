@@ -1,5 +1,5 @@
 {
-  "name": "minimal-typescript-express-boilerplate",
+  "name": "minimal-express-boilerplate",
   "version": "0.0.1",
   "description": "Minimal typescript Express API with TSOA and Swagger",
   "author": "Turbo <me@turboninh.com>",
